@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
